@@ -1,7 +1,7 @@
 # CN-2019.1
 Códigos feitos pela turma de cálculo numérico da Universidade Federal de Goiás - UFG ministrado pelo prof. Jefferson Divino  primeiro período de 2019.
 
-##Conteúdos
+## Conteúdos
 1. Método da Bissecção, Método do Ponto Fixo e Método de Newton-Raphson por Juliana e Noemi
 2. Decomposição LU e Método de Jacobi por Allyson, Alef e Valéria
 3. Interpolação Polinomial de Lagrange e Interpolação Polinomial de Newton por João e Pedro Henrique
